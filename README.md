@@ -6,7 +6,7 @@
 
 2) local data storing for used sharedPreference.
 
-APK :  https://we.tl/t-uzycIW2OmP (valid for seven days)
+APK :  https://we.tl/t-B6yRZPcQsX (valid for seven days)
 
 Youtube Video : 
 
